@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ritika-p9
+- 👋 Hi, I’m @rsp22
 - 🌱 I’m currently learning frontend where the magic happens
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me? You can reach me via soniritika539@gmail.com; Count me in if you ever need an extra pair of creative hands. 🙌😄
